@@ -1,11 +1,11 @@
-Caro-Gomoku là một trò chơi chiến thuật trên bàn cờ. Người chơi thay nhau đánh các quân cờ của họ trên các ô trống. Người thắng là người đầu tiên có được một chuỗi liên tục gồm 5 quân hàng ngang, hoặc dọc, hoặc chéo.
+Lines 98 Bubbles là phiên bản mở rộng của trò Line 98 quen thuộc. Luật chơi không thay đổi, nhưng thêm vào đó chúng ta có 4 chế độ chơi:
 
-Chức năng:
-* 5 cấp độ chơi từ dễ đến khó 
-* Có thể đi lại nếu nước đi không như ý muốn  
-* Có thể tuỳ chọn chặn 2 đầu hoặc không 
-* Lựa chọn bàn cờ theo ý thích 
-* Hỗ trợ tiếng anh và tiếng việt 
+- Move mode: Bạn có 60 nước để đi trong 1 ván.
+- Time mode: Bạn có 120s để chơi 1 ván. 
+- Action mode: Bóng tự động được sinh ra lấp đầy các ô trống sau khoảng thời gian nhất định 
+- Endless mode: Luật cổ điển 
 
-Đây chắc chắn là Game Caro tốt nhất dành cho bạn 
-Hãy tải về và chơi Caro ngay bây nờ nào!
+Features: 
+* Cho phép lưu ván đấu. 
+* Bảng xếp hạng toàn cầu. 
+* Đồ họa, âm thanh hay tuyệt

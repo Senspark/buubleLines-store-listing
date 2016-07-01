@@ -1,1 +1,1 @@
-gomoku, caro, co caro, cờ caro, renju, gobang
+lines, lines 98, bubble lines, bubble, line, line 98
