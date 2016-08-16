@@ -1,0 +1,29 @@
+Lines 98 Bubble is an extended version of addicting Line 98 game. The game rule is still not change - the player needs to arrange 5 or more bubbles of the same color consecutively in straight lines (vertical, horizontal or across) in order to make scores and clear the bubbles from the board, but now we have 4 modes to play: 
+
+- Move mode: you have 60 moves to make as much as possible score. 
+- Time mode: you have 120 seconds to make as much as possible score. 
+- Action mode: new ball will be generated automatically for each 2 seconds. 
+- Endless mode: classical mode. 
+
+Features: 
+* Save at most 5 games for each mode. 
+* Join global leaderboards. 
+* Enjoy beautiful graphics and sound.
+
+SENSPARK Game Studio is the studio behind the success of the top download classic casual games: Gold Miner, Shoot Dinosaur Eggs, Jewel, Chess ...
+
+Cùng từ nhà phát triển game Đào Vàng, Bắn Trứng, Kim cương, Cờ tướng … với hàng triệu người chơi.
+
+Trò chơi di động miễn phí hay nhất ở Việt Nam!
+
+Lines 98 Bubbles là phiên bản mở rộng của trò Line 98 quen thuộc. Luật chơi không thay đổi, nhưng thêm vào đó chúng ta có 4 chế độ chơi:
+
+- Move mode: Bạn có 60 nước để đi trong 1 ván.
+- Time mode: Bạn có 120s để chơi 1 ván. 
+- Action mode: Bóng tự động được sinh ra lấp đầy các ô trống sau khoảng thời gian nhất định 
+- Endless mode: Luật cổ điển 
+
+Features: 
+* Cho phép lưu ván đấu. 
+* Bảng xếp hạng toàn cầu. 
+* Đồ họa, âm thanh hay tuyệt
